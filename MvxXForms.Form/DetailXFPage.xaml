@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+					   xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+					   x:Class="MvxXForms.Form.DetailXFPage"
+					   Title="xamarin.forms page"
+					   BackgroundColor="Yellow"
+					   >
+  <StackLayout Padding="10,80,10,10">
+    <Label x:Name="label1" Text="Xamarin.Forms page"  />
+    <Label Text="PageNum" />
+    <Label Text="{Binding PageNum, StringFormat='{0}'}" BackgroundColor="Lime" />
+    <Label Text="Name" />
+    <Label Text="{Binding Name}"  BackgroundColor="Lime"/>
+  </StackLayout>
+</ContentPage>

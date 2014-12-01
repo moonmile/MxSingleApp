@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Ad-Hoc" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MvxXForms.Form\DetailXFPage.xaml">
+    <Files>
+      <File FileName="MvxXForms.Form\DetailXFPage.xaml" Line="58" Column="58" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TipCalc.TipCalc.UI.Droid MonoForAntroid.PreferredDevice="Nexus 4" />
+</Properties>
