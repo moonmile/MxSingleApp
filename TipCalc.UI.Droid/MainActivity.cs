@@ -20,13 +20,7 @@ namespace TipCalc.UI.Droid
 			get { return (TipViewModel)base.ViewModel; }
 			set { base.ViewModel = value; }
 		}
-/*
-		protected override void OnViewModelSet()
-		{
-			base.OnViewModelSet();
-			SetContentView(Resource.Layout.Main);
-		}
-*/
+
 		protected override void OnCreate(Bundle bundle)
 		{
             base.OnCreate(bundle);
